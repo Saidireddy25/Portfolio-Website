@@ -21,14 +21,14 @@ export default function About() {
             Who Am I ?
           </h2>
           <p className="fs-5" style={{ lineHeight: '1.8' }}>
-            I’m a full-stack developer skilled in <strong>Java, React, Node.js, Express, MongoDB, PostgreSQL</strong>, and <strong>Python</strong>, with experience building scalable web apps from front to back. I craft responsive UIs with <strong>HTML, CSS, JavaScript, Bootstrap</strong>, and <strong>Tailwind</strong>, and develop secure APIs and microservices. I’m also experienced with <strong>Docker, Git, CI/CD pipelines, Kafka</strong>, and deployment tools like <strong>Vercel</strong> and <strong>GCP</strong>. I love solving real-world problems through clean, efficient, and impactful code.
+            I’m a data professional skilled in <strong>Data analysis, Predictive Modelling, Data Visualization, Data Manipulation, Data cleaning , Statistical Analysis  </strong>, and <strong> Reporting & Dashboards</strong> using <strong> SQL, Python, MS Excel, Power Bi, Tableau, Machine Learning models </strong> helping business to make impactful Data-driven decisions. I am also experienced with cloud platforms like <strong>BigQuery, Azure</strong>, and <strong>AWS</strong>, and skilled in <strong>ETL, A/B testing, cohort analysis</strong>, and <strong>stakeholder reporting</strong>. I love turning messy data into clear stories that drive smarter decisions through clean, efficient, and impactful data analysis.
           </p>
 
           {/* 📄 Download Resume Button */}
           <div className="mt-4">
             <Button
-              href="/Lakshmi_resume.pdf"
-              download="Lakshmi_Resume.pdf"
+              href="/SaidiReddy_Resume.pdf"
+              download="SaidiReddy_Resume.pdf"
               variant="outline-light"
               className="px-4 py-2 rounded-pill fw-semibold"
               style={{
