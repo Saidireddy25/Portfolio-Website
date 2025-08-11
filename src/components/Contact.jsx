@@ -12,19 +12,19 @@ export default function Contact() {
         </p>
         <Row className="justify-content-center text-center">
           <Col xs={12} md={4} className="mb-4">
-            <a href="mailto:prasanthipadi@gmail.com" className="contact-link">
+            <a href="mailto:saidreddyk2545@gmail.com" className="contact-link">
               <BsEnvelopeFill size={28} className="mb-2" />
-              <div>prasanthipadi@gmail.com</div>
+              <div>saidreddyk2545@gmail.com</div>
             </a>
           </Col>
           <Col xs={12} md={4} className="mb-4">
-            <a href="https://www.linkedin.com/in/lakshmi-prasanthi-padi/" target="_blank" rel="noreferrer" className="contact-link">
+            <a href="https://www.linkedin.com/in/saidireddyk45/" target="_blank" rel="noreferrer" className="contact-link">
               <BsLinkedin size={28} className="mb-2" />
               <div></div>LinkedIn
             </a>
           </Col>
           <Col xs={12} md={4} className="mb-4">
-            <a href="https://github.com/prasanthi613" target="_blank" rel="noreferrer" className="contact-link">
+            <a href="https://github.com/Saidireddy25" target="_blank" rel="noreferrer" className="contact-link">
               <BsGithub size={28} className="mb-2" />
               <div>GitHub</div>
             </a>

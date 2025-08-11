@@ -2,10 +2,11 @@ import { Container, Badge } from 'react-bootstrap';
 
 export default function Skills() {
   const skills = [
-    'C','Java','Python','SQL','MySQL','HTML', 'CSS', 'JavaScript', 'React', 'Angular','Bootstrap', 'Tailwind CSS',
-    'Node.js', 'Express.js', 'Python', 'Flask','Vue','TypeScript','REST APIs',
-    'MongoDB', 'PostgreSQL', 'MySQL','WordPress',
-    'Git', 'Docker', 'Kafka', 'Kubernetes', 'Figma', 'GCP'
+    'MS Excel','SQL','MYSQL','PostgreSQL','Power BI','Tableau','Quck Sense','Looker Studio',
+    'Python','Pandas','Numpy','Matplotlib','Seaborn','Alteryx','R','VBA','SAP','ML Models', 
+    'Machine learning','Scikit-Learn','TensorFlow','Hugging face transformers','Oracle',
+    'AI','Linear Algebra','Gen AI','NLP','LLM','FastAPI','Apache','ETL','Git','JIRA','Confluence',
+    'A/B Testing','Azure','GCP','AWS'
   ];
 
   return (

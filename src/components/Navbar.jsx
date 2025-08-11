@@ -9,7 +9,7 @@ export default function CustomNavbar() {
           href="#home"
           className="typing-text gradient-text typing-effect"
         >
-          &lt;Lakshmi/&gt;
+          &lt;Saidi/&gt;
         </Navbar.Brand>
 
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
