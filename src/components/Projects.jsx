@@ -6,31 +6,31 @@ export default function Projects() {
 
   const projectList = [
     {
-      title: 'Food Order Website',
+      title: 'HR Analytics Dashboard',
       description:
-        'Developed a Responsive Food Order Website named Eat Mela using frontend-technologies like HTML5, CSS3, and Bootstrap v4 and Bootstrap v5 for grid system and UI components.. It features a visually appealing with sections highlighting the menu, offers, healthy food options, delivery and payment methods and social media links. The website also includes interactive buttons, images, and icons to enhance the user experience with a modern UI, ensuring scalability and responsiveness across devices.',
-      link: 'https://github.com/prasanthi613/Responsive-Food-Order-Website.git',
-      image: '/foodorder.png',
-      techStack: ['HTML', 'CSS', 'Bootstrap', 'JavaScript','React','Responsive Web Design','Cross Browser Compatibility','UI/UX'],
-      tag: 'UI Demo',
+        'The HR Analytics Dashboard tracks workforce trends for 1,470 employees, showing a 16.12% attrition rate, led by Sales (56.12%) and R&D (38.82%). Most employees are in their 30s, with job satisfaction highest among Laboratory Technicians and Sales Executives. Attrition patterns vary by age, gender, and education, with Life Sciences and Medical fields showing the highest rates. Findings indicate a need for targeted retention strategies, especially in Sales, R&D, and specific demographic groups.',
+      link: '',
+      image: '/HR-Analytics.webp',
+      techStack: ['Tableau','Data Analytics','Data Vizualisation','Graph generation','Dashboard Development'],
+      tag: 'HR Analytics',
     },
     {
-      title: 'Personal Blog Platform',
+      title: 'Data Professional Survey Dashboard',
       description:
-        'A full-stack blog app built with React, Express, and Supabase (PostgreSQL). Users can create, view, and delete posts in real-time. The frontend uses React Hooks and Axios; the backend exposes RESTful APIs that interact with Supabase for secure data storage. Designed with clean architecture, the project demonstrates full-stack development, API integration, and scalable design, with deployment-ready support for Vercel and Render.Showcases skills in client-server communication and scalable app architecture.',
-      link: 'https://github.com/prasanthi613/personal-blog.git',
-      image: '/blog.jpg',
-      techStack: ['HTML','CSS','React', 'Axios','JavaScript','Node.js','Express.js','CORS','Supabase','dotenv','Git'],
-      tag: 'Full Stack',
+        'This Power BI dashboard analyzes survey data from data professionals, highlighting trends in salary, demographics, work/life balance, and tool usage. Insights reveal Python as the most popular language and Data Scientists as top earners. Features include salary breakdowns, geographic distribution, and interactive filters, enabling stakeholders to explore regional trends, compare roles, and make data-driven decisions.',
+      link: 'https://github.com/Saidireddy25/Projects/blob/main/Power%20Bi%20Projects/README_Data_professional.md',
+      image: '/Data professional survey.jpg',
+      techStack: ['Power BI','MS Excel','Data Cleaning','Data Profiling','Data Wrangling','Data visualization','Git'],
+      tag: 'Survey Analytics',
     },
     {
-      title: 'Mobile Health Tracker',
+      title: 'Retail Sales Analytics',
       description:
-        'Mobile Health Tracker App is a React Native app with Expo Router for file-based navigation and AsyncStorage for offline data persistence. It tracks water, steps, and sleep, features real-time summaries, input validation, and step trend charts using react-native-chart-kit. Built with React Hooks and native components, it’s optimized for mobile UX and ready for integration with health APIs and cloud services.The codebase is modular and scalable, supporting future features like auth, calendar filters, and health platform sync.',
-      link: 'https://github.com/prasanthi613/health-tracker.git',
-      image: '/healthtracker.jpg',
-      techStack: ['React Native', 'Expo', 'Expo router','TypeScript','React Hooks','AsyncStorage','StyleSheet API'],
-      tag: 'UI Demo',
+        'This MS Excel dashboard provides a comprehensive analysis of retail sales from 2014 to 2018, covering cart value segmentation, discounting patterns, delivery logistics, and yearly trends. It highlights key metrics such as total sales, discounted product revenue, delivery times by shipping mode, and year-over-year growth. The dashboard enables stakeholders to optimize pricing, improve shipping efficiency, enhance customer retention, and make data-driven decisions to drive revenue growth.',
+      link: 'https://github.com/Saidireddy25/Projects/blob/main/Power%20Bi%20Projects/README_Retail_sales.md',
+      image: '/Retail Analytics.svg',
+      techStack: ['MS Excel','Excel Charts','Dashboard','Reporting','Data Mining','Data cleaning'],
+      tag: 'Sales Analytics',
     },
     {
       title: 'On Demand Q/A Bot',
